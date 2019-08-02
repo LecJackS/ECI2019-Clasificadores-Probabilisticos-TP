@@ -1,5 +1,7 @@
 # exclude
 .ipynb_checkpoints/*
-
+Practica-ECI-M1\.zip
 # exception to the rule
 #!./.../.gitkeep
+
+
