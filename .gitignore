@@ -1,0 +1,5 @@
+# exclude
+.ipynb_checkpoints/*
+
+# exception to the rule
+#!./.../.gitkeep
